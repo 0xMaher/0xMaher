@@ -28,5 +28,4 @@ My name is Mohamed Maher . I'm an Security Researcher with professional experien
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
 
-## Want to support my work?
-[<a href="https://www.buymeacoffee.com/0xMaher" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>](https://www.buymeacoffee.com/0xmaher)
+
